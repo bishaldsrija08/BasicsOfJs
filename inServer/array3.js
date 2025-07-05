@@ -29,5 +29,5 @@ console.log(numbers)
 
 const str = "My namee is Bishal Rijal";
 const strArray = str.split(" ");
-console.log(strArray); // ["Hello", "World!"]
-console.log(str)
+console.log(strArray); // Output: [ 'My', 'namee', 'is', 'Bishal', 'Rijal' ]
+console.log(str) // Output: My namee is Bishal Rijal
