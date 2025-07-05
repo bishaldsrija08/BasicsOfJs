@@ -22,3 +22,14 @@ console.log(kHoYo); // Output: { instituteName: 'Digital Bishal', coursePrice: 1
 delete kHoYo.courseType;
 
 console.log(kHoYo);
+
+
+const perosn = {
+    name: "Bishal Rijal",
+    age: 25,
+    address: "Chitwan, Nepal"
+}
+
+for(let key in perosn){
+    console.log(key, perosn[key])
+}
