@@ -1,0 +1,13 @@
+JS was developed by Brendan Eich in 1915 AD in just 10 days.
+JS was initial called Mocha.
+Later it was called Livescript.
+Brendan Eich was working in Netscape Commnuniation Co-Operation.
+At that time Java was the most famous programming language which was under sun microsystem.
+Late on Netscape and microsystem did partnership with each other.
+Later on Livescript was named JS(JavaScript).
+Note: Java and JavaScript are totally different programming language.
+There was competition between Netscape navigator and microsoft internet explorer.
+microsoft internet explorer also developed JScript.
+There was collision between these browser it means if one projcet is working fit and fine in one browser but the same project is not working in another browser.
+Due to this collision Netscape wants to make a ecosystem and take their JavaScript to ecma to for standarization.
+In 2009 ryan dahl developed a nodejs which lets js to run in server.
