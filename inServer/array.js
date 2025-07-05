@@ -3,8 +3,10 @@ const name2 = "Utsab";
 const name3 = "Ankit";
 
 const names = [name1, name2, name3];
-console.log(names[2]); // Output: [ 'Bishal', 'Utsab', 'Ankit' ]
-
+names.push("hello")
+names[3]= "Sanjay"; // Adding a new name to the array
+console.log(names); 
+console.log(names[3]); // Output: [ 'Bishal', 'Utsab', 'Ankit' ]
 
 // objects insidde array
 
